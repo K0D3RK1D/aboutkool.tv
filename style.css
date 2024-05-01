@@ -1,8 +1,4 @@
-.poppins-semibold {
-  font-family: "Poppins", sans-serif;
-  font-weight: 600;
-  font-style: normal;
-}
-body {font: Poppins
+
+body {font-family: sans serif
       color: white
       background-color: black}
